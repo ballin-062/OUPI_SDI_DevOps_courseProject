@@ -6,7 +6,7 @@ Borrowing from the most legendary Office Manager, Michael Scott, we leverage onl
 
 ## Team Members:
 Jesse Mazariegos
-Alex MacMillan
+Alex McMillan
 Colin Torbett
 
 ## Planned Technology Stack
