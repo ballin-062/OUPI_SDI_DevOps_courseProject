@@ -7,7 +7,7 @@ Borrowing from the most legendary Office Manager, Michael Scott, we leverage onl
 ## Team Members:
 Jesse Mazariegos
 Alex McMillan
-Colin Torbett
+Colin Torbett --Role = Commisar of Fonts and Italics
 
 ## Planned Technology Stack
 - Programming Language: Python
